@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit();?><h1><span style="color: #00aa00">hello world!</span></h1>

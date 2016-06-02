@@ -1,0 +1,27 @@
+[ 2016-06-02T15:23:02+08:00 ] 127.0.0.1 /thinkphp/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012047s ]
+INFO: Run Home\Behavior\TestBehavior [ RunTime:0.034618s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.046989s ]
+
+[ 2016-06-02T15:24:16+08:00 ] 127.0.0.1 /thinkphp/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000709s ]
+INFO: Run Home\Behavior\TestBehavior [ RunTime:0.000250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001314s ]
+
+[ 2016-06-02T15:24:29+08:00 ] 127.0.0.1 /thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: Run Home\Behavior\TestBehavior [ RunTime:0.000177s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001068s ]
+

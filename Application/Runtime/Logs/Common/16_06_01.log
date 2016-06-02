@@ -1,0 +1,24 @@
+[ 2016-06-01T15:37:05+08:00 ] 127.0.0.1 /thinkphp/index.php?m=sayHello
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+ERR: 无法加载模块:SayHello
+
+[ 2016-06-01T15:37:23+08:00 ] 127.0.0.1 /thinkphp/index.php/sayHello
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+ERR: 无法加载模块:SayHello
+
+[ 2016-06-01T15:37:32+08:00 ] 127.0.0.1 /thinkphp/index/sayHello
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000171s ]
+ERR: 无法加载模块:SayHello
+
+[ 2016-06-01T15:38:01+08:00 ] 127.0.0.1 /thinkphp/index.php/index/sayHello
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+ERR: 无法加载模块:Index
+
